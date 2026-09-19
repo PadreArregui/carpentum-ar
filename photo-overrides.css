@@ -1,0 +1,16 @@
+/* Fotos oficiales extraídas de Carpentum.zip */
+.hero-visual {
+  background: url('public/images/IMG-20260622-WA0005.jpg') center / cover;
+}
+
+.hero-visual::after {
+  background: linear-gradient(0deg, rgba(40, 25, 14, .56), rgba(40, 25, 14, .04) 65%);
+}
+
+.wood-grain { display: none; }
+
+.gallery-card { background-position: center; background-size: cover; }
+.slot-1 { background-image: url('public/images/IMG-20250916-WA0066.jpg'); }
+.slot-2 { background-image: url('public/images/IMG-20250912-WA0223.jpg'); }
+.slot-3 { background-image: url('public/images/IMG-20230405-WA0000.jpg'); }
+.slot-4 { background-image: url('public/images/IMG-20251128-WA0281.jpg'); }
